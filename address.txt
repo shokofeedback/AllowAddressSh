@@ -166,3 +166,4 @@ ya.ru
 yabs.yandex.ru
 yandex.net
 zia.aero
+live.shoko.ru
