@@ -28,7 +28,6 @@ bitrix.info
 cert.int-x3.letsencrypt.org
 cheques-test.utm.egais.ru
 cheques-utm.egais.ru
-cheques-utm.egais.ru
 chrome.google.com
 cms.sbertips.ru
 complexbar.ru
@@ -73,10 +72,8 @@ kontur.tools
 l.ucs.ru
 live.shoko.ru
 lk.sbtips.ru
-lk.sbtips.ru
 loystg-api.demo.spasibobonus.ru
 loystg-xml-online.demo.spasibobonus.ru
-m4-bank-api.katemedia.ru
 m4-bank-api.katemedia.ru
 m4-proxy.katemedia.ru
 mark-test.utm.egais.ru
@@ -86,7 +83,6 @@ metro-cc.ru
 moscow.speedtest.rt.ru
 mqtt-3015.pushy.io
 my.service.guru
-mysbertips.ru
 mysbertips.ru
 nd.utm.egais.ru
 netmonet.co
@@ -122,14 +118,11 @@ shoko.itsm365.com
 shoko.ru
 shokoladnica.teachbase.ru
 spaupdate-nd.utm.egais.ru
-spaupdate-nd.utm.egais.ru
 speedtest.net
-speedtest.selectel.ru
 speedtest.selectel.ru
 ssl.google-analytics.com
 symona-crm.shoko.ru
 teachbase.ru
-telemetry.indis.ru
 telemetry.indis.ru
 test-utm-nd.egais.ru
 time.izatcloud.net
@@ -140,7 +133,6 @@ tips.yandex
 tips.yandex.ru
 update.egais.ru
 updates.smotreshka.tv
-utmupdatend.utm.egais.ru
 utmupdatend.utm.egais.ru
 vendor.eda.yandex
 vendor.yandex.ru
@@ -166,4 +158,3 @@ ya.ru
 yabs.yandex.ru
 yandex.net
 zia.aero
-live.shoko.ru
