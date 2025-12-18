@@ -1,5 +1,6 @@
 0.ru.pool.ntp.org
 2ip.ru
+2gis.ru
 addons.mozilla.org
 admin.netmonet.co
 admin.rsb.m4bank.ru
