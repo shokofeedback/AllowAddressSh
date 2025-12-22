@@ -162,3 +162,4 @@ add address=zia.aero comment=zia.aero list=forward-coffee-dest
 add address=portal.afimall.ru comment=portal.afimall.ru list=forward-coffee-dest
 add address=prod01.okp-fn.ru comment=prod01.okp-fn.ru list=forward-coffee-dest
 add address=okp-fn.ru comment=okp-fn.ru list=forward-coffee-dest
+add address=markirovka.crpt.ru comment=markirovka list=forward-coffee-dest
