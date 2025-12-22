@@ -1,152 +1,151 @@
 /ip firewall address-list
 add address=212.8.236.128/29 list=allow
-add address=10.100.24.0/22 comment=forward-coffee-dest list=forward-coffee-dest
-add address=10.100.24.0/24 comment=shoko.local disabled=no list=forward-coffee-dest
-add address=10.100.24.117 list=forward-coffee-dest
-add address=10.200.87.23 comment=shoko.local disabled=no list=forward-coffee-dest
-add address=10.202.0.0/16 comment=shoko.local disabled=no list=forward-coffee-dest
-add address=10.38.81.33 comment=keytablet list=forward-coffee-dest
-add address=10.38.81.82 comment=keytablet list=forward-coffee-dest
-add address=100.43.64.0/19 comment="tips yandex" disabled=no list=forward-coffee-dest
+add address=92.53.103.28 comment=app.tmplease.com list=forward-coffee-dest
+add address=94.100.178.82 comment=biz.mail.ru list=forward-coffee-dest
 add address=104.18.28.0/24 comment=business-ru.gett.com list=forward-coffee-dest
 add address=104.18.29.0/24 comment=business-ru.gett.com list=forward-coffee-dest
-add address=109.167.192.0/18 comment=google.com list=forward-coffee-dest
-add address=128.140.175.0/24 comment="delivery-club.ru" list=forward-coffee-dest
-add address=128.140.175.213 comment="delivery club" list=forward-coffee-dest
-add address=128.140.175.235 comment="delyvery club" list=forward-coffee-dest
 add address=13.32.43.0/24 comment=business-ru.gett.com list=forward-coffee-dest
-add address=130.193.58.1 list=forward-coffee-dest
-add address=141.8.128.0/18 comment="tips yandex" list=forward-coffee-dest
-add address=141.8.142.0/25 comment=yandex.eda list=forward-coffee-dest
+add address=5.45.217.8 comment=bussiness.taxi.yandex.ru list=forward-coffee-dest
+add address=128.140.175.213 comment=deliveryclub list=forward-coffee-dest
+add address=185.6.244.0/24 comment=deliveryclub list=forward-coffee-dest
+add address=185.6.245.0/24 comment=deliveryclub list=forward-coffee-dest
+add address=185.6.246.0/24 comment=deliveryclub list=forward-coffee-dest
+add address=128.140.175.0/24 comment=delivery-club.ru list=forward-coffee-dest
+add address=128.140.175.235 comment=delyveryclub list=forward-coffee-dest
+add address=83.220.171.149 comment=doggybag.ru list=forward-coffee-dest
 add address=146.120.90.0/24 comment=egais.ru list=forward-coffee-dest
-add address=149.154.174.100 comment=vendor.yandex.ru list=forward-coffee-dest
+add address=37.18.29.212 comment=foodcard list=forward-coffee-dest
+add address=95.181.204.46 comment=foodcard list=forward-coffee-dest
+add address=91.220.188.0/24 comment=shoko.local list=forward-coffee-dest
+add address=178.248.232.46 comment=gnivs.ru list=forward-coffee-dest
+add address=8.8.8.8 comment=googlepublicdns list=forward-coffee-dest
+add address=109.167.192.0/18 comment=google.com list=forward-coffee-dest
 add address=17.171.36.30 comment=google.com list=forward-coffee-dest
 add address=173.194.0.0/16 comment=google.com list=forward-coffee-dest
-add address=173.194.221.100 comment=vendor.yandex.ru list=forward-coffee-dest
-add address=178.154.128.0/18 comment="tips yandex" disabled=no list=forward-coffee-dest
+add address=195.133.87.243 comment=google.com list=forward-coffee-dest
+add address=208.73.0.0/16 comment=google.com list=forward-coffee-dest
+add address=213.33.186.0/24 comment=google.com list=forward-coffee-dest
+add address=216.58.209.0/24 comment=google.com list=forward-coffee-dest
+add address=23.64.226.0/24 comment=google.com list=forward-coffee-dest
+add address=64.233.0.0/16 comment=google.com list=forward-coffee-dest
+add address=74.125.0.0/16 comment=google.com list=forward-coffee-dest
+add address=91.108.186.0/24 comment=google.com list=forward-coffee-dest
+add address=185.173.0.128/26 comment=GorodIPCamera list=forward-coffee-dest
+add address=185.173.0.192/29 comment=GorodIPCamera list=forward-coffee-dest
+add address=194.135.112.64/27 comment=GorodIPCamera list=forward-coffee-dest
+add address=213.180.204.242 comment=internet.yandex.ru list=forward-coffee-dest
+add address=185.48.237.62 comment=itsm-365 list=forward-coffee-dest
+add address=185.48.238.146 comment=itsm-365 list=forward-coffee-dest
+add address=185.48.238.52 comment=itsm-365 list=forward-coffee-dest
+add address=194.67.29.85 comment=KateMedia list=forward-coffee-dest
+add address=212.46.217.150 comment=KateMedia list=forward-coffee-dest
+add address=10.38.81.33 comment=keytablet list=forward-coffee-dest
+add address=10.38.81.82 comment=keytablet list=forward-coffee-dest
+add address=213.184.249.113 comment=keytablet list=forward-coffee-dest
+add address=51.75.66.29 comment=keytablet list=forward-coffee-dest
+add address=46.17.203.0/24 comment=kontur list=forward-coffee-dest
+add address=185.110.56.20 comment=l.ucs.ru list=forward-coffee-dest
+add address=213.221.5.27 comment=mail.ru list=forward-coffee-dest
+add address=77.88.21.0/24 comment=maps.yandex.ru list=forward-coffee-dest
+add address=178.63.1.10 comment=market-music list=forward-coffee-dest
+add address=88.99.64.130/31 comment=market-musicnew list=forward-coffee-dest
+add address=82.196.15.0/24 comment=naumen list=forward-coffee-dest
+add address=88.212.238.0/24 comment=naumen list=forward-coffee-dest
+add address=130.193.58.1 comment=nocomment list=forward-coffee-dest
+add address=188.93.210.129 comment=nocomment list=forward-coffee-dest
+add address=212.46.253.54 comment=nocomment list=forward-coffee-dest
+add address=37.140.192.8 comment=nocomment list=forward-coffee-dest
+add address=37.18.34.75 comment=nocomment list=forward-coffee-dest
+add address=5.45.196.91-5.45.196.95 comment=nocomment list=forward-coffee-dest
+add address=68.177.188.49 comment=nocomment list=forward-coffee-dest
+add address=84.253.106.90 comment=nocomment list=forward-coffee-dest
+add address=94.100.180.160 comment=nocomment list=forward-coffee-dest
+add address=82.202.172.51 comment=obed.ru list=forward-coffee-dest
+add address=185.15.172.0/24 comment=OFD list=forward-coffee-dest
+add address=94.143.160.11 comment=ofd list=forward-coffee-dest
+add address=213.180.204.24 comment=passport.yandex.ru list=forward-coffee-dest
+add address=62.76.96.4 comment=pool.ntp.org list=forward-coffee-dest
+add address=78.140.251.2 comment=pool.ntp.org list=forward-coffee-dest
+add address=85.21.78.91 comment=pool.ntp.org list=forward-coffee-dest
+add address=91.207.136.50 comment=pool.ntp.org list=forward-coffee-dest
+add address=195.239.62.155 comment=portal.galeria.spb.ru list=forward-coffee-dest
+add address=84.252.149.147 comment=sbertips list=forward-coffee-dest
+add address=185.99.142.194 comment=sberzvuk list=forward-coffee-dest
+add address=94.139.255.149 comment=sberzvuk list=forward-coffee-dest
+add address=185.157.96.41 comment=sberbank list=forward-coffee-dest
+add address=192.186.207.162 comment=Sberbank list=forward-coffee-dest
+add address=194.54.14.0/24 comment=SberBank list=forward-coffee-dest
+add address=194.54.14.162 comment=Sberbank list=forward-coffee-dest
+add address=194.54.14.88 comment=sberbank list=forward-coffee-dest
+add address=194.54.14.89 comment=sberbank list=forward-coffee-dest
+add address=194.54.15.0/24 comment=SberBank list=forward-coffee-dest
+add address=194.54.15.25 comment=sberbank list=forward-coffee-dest
+add address=194.54.15.98 comment=sberbank list=forward-coffee-dest
+add address=91.208.214.91 comment=sberbank list=forward-coffee-dest
+add address=194.186.207.162 comment=sberbank1 list=forward-coffee-dest
 add address=178.170.192.217 comment=sberzvuk list=forward-coffee-dest
 add address=178.170.192.239 comment=sberzvuk list=forward-coffee-dest
 add address=178.170.193.150 comment=sberzvuk list=forward-coffee-dest
 add address=178.170.194.133 comment=sberzvuk list=forward-coffee-dest
 add address=178.170.195.78 comment=sberzvuk list=forward-coffee-dest
 add address=178.170.242.170 comment=sberzvuk list=forward-coffee-dest
-add address=178.248.232.46 comment=gnivs.ru list=forward-coffee-dest
-add address=178.63.1.10 comment=market-music list=forward-coffee-dest
-add address=178.63.151.224 comment="2 ip.ru" list=forward-coffee-dest
-add address=185.110.56.20 comment=l.ucs.ru list=forward-coffee-dest
-add address=185.15.172.0/24 comment=OFD list=forward-coffee-dest
-add address=185.157.96.41 comment=sberbank list=forward-coffee-dest
-add address=185.173.0.128/26 comment="Gorod IP Camera" disabled=no list=forward-coffee-dest
-add address=185.173.0.192/29 comment="Gorod IP Camera" disabled=no list=forward-coffee-dest
-add address=185.173.0.222 comment=Test list=forward-coffee-dest
-add address=185.198.112.0/22 comment=smotreshka list=forward-coffee-dest
-add address=185.198.112.16-185.198.112.27 comment=smotreshka list=forward-coffee-dest
-add address=185.198.112.73-185.198.112.74 comment=smotreshka list=forward-coffee-dest
-add address=185.205.210.23 comment=ucs list=forward-coffee-dest
-add address=185.32.187.0/24 comment="tips yandex" disabled=no list=forward-coffee-dest
-add address=185.48.237.62 comment=itsm-365 list=forward-coffee-dest
-add address=185.48.238.146 comment=itsm-365 list=forward-coffee-dest
-add address=185.48.238.52 comment=itsm-365 list=forward-coffee-dest
-add address=185.6.244.0/24 comment="delivery club" list=forward-coffee-dest
-add address=185.6.245.0/24 comment="delivery club" list=forward-coffee-dest
-add address=185.6.246.0/24 comment="delivery club" list=forward-coffee-dest
-add address=185.99.142.194 comment="sber zvuk" list=forward-coffee-dest
-add address=188.170.11.229-188.170.11.230 comment=WatCom list=forward-coffee-dest
-add address=188.93.210.129 list=forward-coffee-dest
-add address=192.186.207.162 comment=Sberbank list=forward-coffee-dest
-add address=194.135.112.64/27 comment="Gorod IP Camera" disabled=no list=forward-coffee-dest
-add address=194.186.207.162 comment="sberbank 1" list=forward-coffee-dest
-add address=194.54.14.0/24 comment=SberBank disabled=no list=forward-coffee-dest
-add address=194.54.14.162 comment=Sberbank list=forward-coffee-dest
-add address=194.54.14.88 comment=sberbank list=forward-coffee-dest
-add address=194.54.14.89 comment=sberbank list=forward-coffee-dest
-add address=194.54.15.0/24 comment=SberBank disabled=no list=forward-coffee-dest
-add address=194.54.15.25 comment=sberbank list=forward-coffee-dest
-add address=194.54.15.98 comment=sberbank list=forward-coffee-dest
-add address=194.67.29.85 comment=KateMedia list=forward-coffee-dest
-add address=195.133.87.243 comment=google.com list=forward-coffee-dest
-add address=195.239.62.155 comment=portal.galeria.spb.ru list=forward-coffee-dest
-add address=199.21.96.0/22 comment="tips yandex" disabled=no list=forward-coffee-dest
-add address=199.36.240.0/22 comment="tips yandex" disabled=no list=forward-coffee-dest
-add address=208.73.0.0/16 comment=google.com list=forward-coffee-dest
-add address=212.46.217.150 comment=KateMedia list=forward-coffee-dest
-add address=212.46.253.54 list=forward-coffee-dest
-add address=212.8.236.128/29 comment=shoko.local disabled=no list=forward-coffee-dest
-add address=212.8.236.129 comment=websrv list=forward-coffee-dest
-add address=212.8.236.130 list=forward-coffee-dest
-add address=213.180.192.0/19 comment="tips yandex" disabled=no list=forward-coffee-dest
-add address=213.180.204.24 comment=passport.yandex.ru list=forward-coffee-dest
-add address=213.180.204.242 comment=internet.yandex.ru list=forward-coffee-dest
-add address=213.184.249.113 comment=keytablet list=forward-coffee-dest
-add address=213.221.5.27 comment=mail.ru list=forward-coffee-dest
-add address=213.33.186.0/24 comment=google.com list=forward-coffee-dest
-add address=216.58.209.0/24 comment=google.com list=forward-coffee-dest
-add address=23.64.226.0/24 comment=google.com list=forward-coffee-dest
-add address=37.140.128.0/18 comment="tips yandex" list=forward-coffee-dest
-add address=37.140.192.8 list=forward-coffee-dest
 add address=37.18.110.234 comment=sberzvuk list=forward-coffee-dest
-add address=37.18.127.0/24 comment=smotreshka list=forward-coffee-dest
-add address=37.18.127.6/31 comment=smotreshka list=forward-coffee-dest
-add address=37.18.29.212 comment=foodcard list=forward-coffee-dest
-add address=37.18.34.67-37.18.34.68 comment=WatCom list=forward-coffee-dest
-add address=37.18.34.75 list=forward-coffee-dest
 add address=37.230.195.157 comment=sberzvuk list=forward-coffee-dest
 add address=37.230.195.58 comment=sberzvuk list=forward-coffee-dest
 add address=37.230.196.168 comment=sberzvuk list=forward-coffee-dest
-add address=37.9.64.0/18 comment="tips yandex" list=forward-coffee-dest
-add address=37.9.64.225 comment=vendor.yandex.ru disabled=no list=forward-coffee-dest
 add address=45.9.27.78 comment=sberzvuk list=forward-coffee-dest
-add address=46.17.203.0/24 comment=kontur disabled=no list=forward-coffee-dest
-add address=5.129.205.35 comment=symona-crm.shoko.ru list=forward-coffee-dest
-add address=5.255.192.0/18 comment="tips yandex" disabled=no list=forward-coffee-dest
-add address=5.45.192.0/18 comment="tips yandex" list=forward-coffee-dest
-add address=5.45.196.91-5.45.196.95 list=forward-coffee-dest
-add address=5.45.207.0/25 comment=yandex.eda disabled=no list=forward-coffee-dest
-add address=5.45.217.5 comment=taxi.yandex.ru list=forward-coffee-dest
-add address=5.45.217.8 comment=bussiness.taxi.yandex.ru list=forward-coffee-dest
-add address=51.250.47.72 comment=shoko.itsm365.com list=forward-coffee-dest
-add address=51.75.66.29 comment=keytablet list=forward-coffee-dest
-add address=62.76.96.4 comment=pool.ntp.org list=forward-coffee-dest
-add address=64.233.0.0/16 comment=google.com list=forward-coffee-dest
-add address=64.233.163.101 comment=vendor.yandex.ru list=forward-coffee-dest
-add address=68.177.188.49 list=forward-coffee-dest
-add address=74.125.0.0/16 comment=google.com list=forward-coffee-dest
-add address=77.88.0.0/18 comment="tips yandex" list=forward-coffee-dest
-add address=77.88.21.0/24 comment=maps.yandex.ru list=forward-coffee-dest
-add address=77.88.21.189 comment=yandex.net list=forward-coffee-dest
-add address=78.140.251.2 comment=pool.ntp.org list=forward-coffee-dest
-add address=8.8.8.8 comment="google public dns" list=forward-coffee-dest
-add address=82.196.15.0/24 comment=naumen list=forward-coffee-dest
-add address=82.196.15.129 comment=shoko.itsm365.com list=forward-coffee-dest
-add address=82.196.67.120 comment=VTB-processing list=forward-coffee-dest
-add address=82.196.67.124 comment=VTB-processing list=forward-coffee-dest
-add address=82.202.172.51 comment=obed.ru list=forward-coffee-dest
-add address=83.220.171.149 comment=doggybag.ru list=forward-coffee-dest
-add address=84.252.149.147 comment="sber tips" disabled=no list=forward-coffee-dest
-add address=84.252.160.0/19 comment="tips yandex" list=forward-coffee-dest
-add address=84.253.106.90 list=forward-coffee-dest
-add address=85.21.78.91 comment=pool.ntp.org list=forward-coffee-dest
-add address=87.250.224.0/19 comment="tips yandex" list=forward-coffee-dest
-add address=87.250.250.119 comment=vendor.yandex.ru list=forward-coffee-dest
-add address=88.212.238.0/24 comment=naumen list=forward-coffee-dest
-add address=88.99.64.130/31 comment="market-music new" list=forward-coffee-dest
-add address=90.156.176.0/20 comment="tips yandex" disabled=no list=forward-coffee-dest
-add address=91.108.186.0/24 comment=google.com list=forward-coffee-dest
-add address=91.207.136.50 comment=pool.ntp.org list=forward-coffee-dest
-add address=91.208.214.91 comment=sberbank list=forward-coffee-dest
-add address=91.213.144.0/24 comment=tensor list=forward-coffee-dest
-add address=91.220.188.0/24 comment=forward-coffee-dest list=forward-coffee-dest
-add address=92.255.112.0/20 comment="tips yandex" list=forward-coffee-dest
-add address=92.53.103.28 comment=app.tmplease.com list=forward-coffee-dest
-add address=92.62.131.108 comment=Watcom list=forward-coffee-dest
-add address=93.158.128.0/18 comment="tips yandex" disabled=no list=forward-coffee-dest
-add address=94.100.178.82 comment=biz.mail.ru list=forward-coffee-dest
-add address=94.100.180.160 list=forward-coffee-dest
 add address=94.139.254.243 comment=sberzvuk list=forward-coffee-dest
-add address=94.139.255.149 comment="sber zvuk" list=forward-coffee-dest
-add address=94.143.160.11 comment="ofd ?" list=forward-coffee-dest
-add address=95.108.128.0/17 comment="tips yandex" disabled=no list=forward-coffee-dest
-add address=95.161.220.122 comment=watcom list=forward-coffee-dest
+add address=51.250.47.72 comment=shoko.itsm365.com list=forward-coffee-dest
+add address=82.196.15.129 comment=shoko.itsm365.com list=forward-coffee-dest
+add address=10.100.24.0/22 comment=shoko.local list=forward-coffee-dest
+add address=10.100.24.0/24 comment=shoko.local list=forward-coffee-dest
+add address=10.100.24.117 comment=shoko.local list=forward-coffee-dest
+add address=10.200.87.23 comment=shoko.local list=forward-coffee-dest
+add address=10.202.0.0/16 comment=shoko.local list=forward-coffee-dest
+add address=212.8.236.128/29 comment=shoko.local list=forward-coffee-dest
+add address=212.8.236.130 comment=shoko.local list=forward-coffee-dest
+add address=185.198.112.0/22 comment=smotreshka list=forward-coffee-dest
+add address=185.198.112.16-185.198.112.27 comment=smotreshka list=forward-coffee-dest
+add address=185.198.112.73-185.198.112.74 comment=smotreshka list=forward-coffee-dest
+add address=37.18.127.0/24 comment=smotreshka list=forward-coffee-dest
+add address=37.18.127.6/31 comment=smotreshka list=forward-coffee-dest
 add address=95.163.68.48/28 comment=smotreshka list=forward-coffee-dest
 add address=95.163.68.55 comment=smotreshka list=forward-coffee-dest
-add address=95.181.204.46 comment=foodcard list=forward-coffee-dest
+add address=5.129.205.35 comment=symona-crm.shoko.ru list=forward-coffee-dest
+add address=5.45.217.5 comment=taxi.yandex.ru list=forward-coffee-dest
+add address=91.213.144.0/24 comment=tensor list=forward-coffee-dest
+add address=185.173.0.222 comment=Test list=forward-coffee-dest
+add address=100.43.64.0/19 comment=tipsyandex list=forward-coffee-dest
+add address=141.8.128.0/18 comment=tipsyandex list=forward-coffee-dest
+add address=178.154.128.0/18 comment=tipsyandex list=forward-coffee-dest
+add address=185.32.187.0/24 comment=tipsyandex list=forward-coffee-dest
+add address=199.21.96.0/22 comment=tipsyandex list=forward-coffee-dest
+add address=199.36.240.0/22 comment=tipsyandex list=forward-coffee-dest
+add address=213.180.192.0/19 comment=tipsyandex list=forward-coffee-dest
+add address=37.140.128.0/18 comment=tipsyandex list=forward-coffee-dest
+add address=37.9.64.0/18 comment=tipsyandex list=forward-coffee-dest
+add address=5.255.192.0/18 comment=tipsyandex list=forward-coffee-dest
+add address=5.45.192.0/18 comment=tipsyandex list=forward-coffee-dest
+add address=77.88.0.0/18 comment=tipsyandex list=forward-coffee-dest
+add address=84.252.160.0/19 comment=tipsyandex list=forward-coffee-dest
+add address=87.250.224.0/19 comment=tipsyandex list=forward-coffee-dest
+add address=90.156.176.0/20 comment=tipsyandex list=forward-coffee-dest
+add address=92.255.112.0/20 comment=tipsyandex list=forward-coffee-dest
+add address=93.158.128.0/18 comment=tipsyandex list=forward-coffee-dest
+add address=95.108.128.0/17 comment=tipsyandex list=forward-coffee-dest
+add address=185.205.210.23 comment=ucs list=forward-coffee-dest
+add address=149.154.174.100 comment=vendor.yandex.ru list=forward-coffee-dest
+add address=173.194.221.100 comment=vendor.yandex.ru list=forward-coffee-dest
+add address=37.9.64.225 comment=vendor.yandex.ru list=forward-coffee-dest
+add address=64.233.163.101 comment=vendor.yandex.ru list=forward-coffee-dest
+add address=87.250.250.119 comment=vendor.yandex.ru list=forward-coffee-dest
+add address=82.196.67.120 comment=VTB-processing list=forward-coffee-dest
+add address=82.196.67.124 comment=VTB-processing list=forward-coffee-dest
+add address=188.170.11.229-188.170.11.230 comment=WatCom list=forward-coffee-dest
+add address=37.18.34.67-37.18.34.68 comment=WatCom list=forward-coffee-dest
+add address=92.62.131.108 comment=Watcom list=forward-coffee-dest
+add address=95.161.220.122 comment=watcom list=forward-coffee-dest
+add address=212.8.236.129 comment=websrv list=forward-coffee-dest
+add address=141.8.142.0/25 comment=yandex.eda list=forward-coffee-dest
+add address=5.45.207.0/25 comment=yandex.eda list=forward-coffee-dest
+add address=77.88.21.189 comment=yandex.net list=forward-coffee-dest
