@@ -163,3 +163,5 @@ add address=portal.afimall.ru comment=portal.afimall.ru list=forward-coffee-dest
 add address=prod01.okp-fn.ru comment=prod01.okp-fn.ru list=forward-coffee-dest
 add address=okp-fn.ru comment=okp-fn.ru list=forward-coffee-dest
 add address=markirovka.crpt.ru comment=markirovka list=forward-coffee-dest
+add address=myip.ru comment=myip list=forward-coffee-dest
+add address=portal.rentu.ru comment=portal.rentu.ru list=forward-coffee-dest
