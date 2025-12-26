@@ -166,4 +166,5 @@ add address=markirovka.crpt.ru comment=markirovka list=forward-coffee-dest
 add address=myip.ru comment=myip list=forward-coffee-dest
 add address=portal.rentu.ru comment=portal.rentu.ru list=forward-coffee-dest
 add address=lunch.catery.ru comment=catery list=forward-coffee-dest
-
+add address=s03-a.prod.okp-fn.ru comment=ofd list=forward-coffee-dest
+add address=s02-a.prod.okp-fn.ru comment=ofd list=forward-coffee-dest
