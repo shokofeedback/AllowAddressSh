@@ -168,3 +168,5 @@ add address=portal.rentu.ru comment=portal.rentu.ru list=forward-coffee-dest
 add address=lunch.catery.ru comment=catery list=forward-coffee-dest
 add address=s03-a.prod.okp-fn.ru comment=ofd list=forward-coffee-dest
 add address=s02-a.prod.okp-fn.ru comment=ofd list=forward-coffee-dest
+add address=planix.app comment=planix list=forward-coffee-dest
+add address=arpvko.sales-flow.ru comment=sales-flow list=forward-coffee-dest
