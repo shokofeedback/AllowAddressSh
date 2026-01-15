@@ -170,3 +170,13 @@ add address=s03-a.prod.okp-fn.ru comment=ofd list=forward-coffee-dest
 add address=s02-a.prod.okp-fn.ru comment=ofd list=forward-coffee-dest
 add address=planix.app comment=planix list=forward-coffee-dest
 add address=arpvko.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+add address=dsm-in.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+add address=arp.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+add address=arphbr.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+add address=fortgroup.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+add address=imf.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+add address=okhr.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+add address=outlbd.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+add address=shkmsk.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+add address=shlkvsk.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+
