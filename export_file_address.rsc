@@ -179,4 +179,6 @@ add address=okhr.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=outlbd.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=shkmsk.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=shlkvsk.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+add address=jivo.ru comment=lunch.catery.ru list=forward-coffee-dest
+add address=jivosite.com comment=lunch.catery.ru list=forward-coffee-dest
 
