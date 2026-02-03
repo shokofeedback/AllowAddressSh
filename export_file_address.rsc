@@ -182,4 +182,5 @@ add address=shlkvsk.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=jivo.ru comment=lunch.catery.ru list=forward-coffee-dest
 add address=jivosite.com comment=lunch.catery.ru list=forward-coffee-dest
 add address=ntp.maergroup.ru comment=tv list=forward-coffee-dest
+add address=job.okdesk.ru comment=job.okdesk list=forward-coffee-dest
 
