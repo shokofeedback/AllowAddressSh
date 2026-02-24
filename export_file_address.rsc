@@ -183,4 +183,9 @@ add address=jivo.ru comment=lunch.catery.ru list=forward-coffee-dest
 add address=jivosite.com comment=lunch.catery.ru list=forward-coffee-dest
 add address=ntp.maergroup.ru comment=tv list=forward-coffee-dest
 add address=job.okdesk.ru comment=job.okdesk list=forward-coffee-dest
+add address=accounts.google.com comment=google list=forward-coffee-dest
+add address=gosuslugi.ru comment=gosuslugi.ru list=forward-coffee-dest
+add address=hrtek.vk.com comment=hrtek list=forward-coffee-dest
+add address=kingswater.ru comment=kingswater list=forward-coffee-dest
+
 
