@@ -244,6 +244,7 @@ add address=ya.ru comment=ya.ru list=forward-coffee-dest
 add address=yabs.yandex.ru comment=yabs.yandex.ru list=forward-coffee-dest
 add address=yandex.net comment=yandex.net list=forward-coffee-dest
 add address=zia.aero comment=zia.aero list=forward-coffee-dest
+add address=megbed.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 
 
 
