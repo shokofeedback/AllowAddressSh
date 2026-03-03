@@ -192,7 +192,6 @@ add address=s03-a.prod.okp-fn.ru comment=ofd list=forward-coffee-dest
 add address=sbertips.ru comment=sbertips.ru list=forward-coffee-dest
 add address=sbi.sberbank.ru comment=SberBank list=forward-coffee-dest
 add address=setter.kontur.ru comment=kontur list=forward-coffee-dest
-add address=setter.kontur.ru comment=kontur list=forward-coffee-dest
 add address=shkmsk.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=shlkvsk.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=shoko.itsm365.com comment=shoko.itsm365.com list=forward-coffee-dest
@@ -245,6 +244,7 @@ add address=yabs.yandex.ru comment=yabs.yandex.ru list=forward-coffee-dest
 add address=yandex.net comment=yandex.net list=forward-coffee-dest
 add address=zia.aero comment=zia.aero list=forward-coffee-dest
 add address=megbed.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+
 
 
 
