@@ -4,6 +4,7 @@ add address=2gis.ru comment=2gis.ru list=forward-coffee-dest
 add address=2ip.ru comment=2ip.ru list=forward-coffee-dest
 add address=accounts.google.com comment=google list=forward-coffee-dest
 add address=addons.mozilla.org comment=addons.mozilla.org list=forward-coffee-dest
+add address=addons.opera.com comment=addons.opera.com list=forward-coffee-dest
 add address=admin.netmonet.co comment=admin.netmonet.co list=forward-coffee-dest
 add address=admin.rsb.m4bank.ru comment=KateMedia list=forward-coffee-dest
 add address=alko.kontur.ru comment=kontur list=forward-coffee-dest
@@ -244,6 +245,7 @@ add address=yabs.yandex.ru comment=yabs.yandex.ru list=forward-coffee-dest
 add address=yandex.net comment=yandex.net list=forward-coffee-dest
 add address=zia.aero comment=zia.aero list=forward-coffee-dest
 add address=megbed.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+
 
 
 
