@@ -165,6 +165,7 @@ add address=online-domodedovo.ru comment=online-domodedovo.ru list=forward-coffe
 add address=order.unitex-service.ru comment=order.unitex-service.ru list=forward-coffee-dest
 add address=outlbd.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=p.kontur.ru comment=kontur list=forward-coffee-dest
+add address=partner.megamall.ru comment=megamall list=forward-coffee-dest
 add address=pfr.kontur.ru comment=kontur list=forward-coffee-dest
 add address=planix.app comment=planix list=forward-coffee-dest
 add address=pool.ntp.org comment=pool.ntp.org list=forward-coffee-dest
@@ -246,6 +247,7 @@ add address=yabs.yandex.ru comment=yabs.yandex.ru list=forward-coffee-dest
 add address=yandex.net comment=yandex.net list=forward-coffee-dest
 add address=zia.aero comment=zia.aero list=forward-coffee-dest
 add address=megbed.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+
 
 
 
