@@ -91,6 +91,7 @@ add address=google.com comment=google.com list=forward-coffee-dest
 add address=google-analytics.com comment=KateMedia list=forward-coffee-dest
 add address=googleapis.com comment=KateMedia list=forward-coffee-dest
 add address=gosuslugi.ru comment=gosuslugi.ru list=forward-coffee-dest
+add address=hh.ru comment=hh list=forward-coffee-dest
 add address=help.kontur.ru comment=kontur list=forward-coffee-dest
 add address=help2.kontur.ru comment=kontur list=forward-coffee-dest
 add address=hotel.kontur.ru  comment=kontur list=forward-coffee-dest
@@ -245,6 +246,7 @@ add address=yabs.yandex.ru comment=yabs.yandex.ru list=forward-coffee-dest
 add address=yandex.net comment=yandex.net list=forward-coffee-dest
 add address=zia.aero comment=zia.aero list=forward-coffee-dest
 add address=megbed.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+
 
 
 
