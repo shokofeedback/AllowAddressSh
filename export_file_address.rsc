@@ -62,6 +62,7 @@ add address=documents-test.utm.egais.ru comment=egais list=forward-coffee-dest
 add address=documents-utm.egais.ru comment=egais list=forward-coffee-dest
 add address=doggybag.club comment=doggybag.club list=forward-coffee-dest
 add address=dostup.kontur.ru  comment=kontur list=forward-coffee-dest
+add address=download.mikrotik.com  comment=mikrotik list=forward-coffee-dest
 add address=dsm-in.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=dzen.ru comment=dzen.ru list=forward-coffee-dest
 add address=eda.yandex comment=eda.yandex list=forward-coffee-dest
@@ -219,6 +220,7 @@ add address=update.egais.ru comment=egais list=forward-coffee-dest
 add address=update.kontur.ru comment=kontur list=forward-coffee-dest
 add address=update.skbkontur.ru comment=kontur list=forward-coffee-dest
 add address=updates.smotreshka.tv comment=smotreshka list=forward-coffee-dest
+add address=upgrade.mikrotik.com comment=mikrotik list=forward-coffee-dest
 add address=utmupdatend.utm.egais.ru comment=egais list=forward-coffee-dest
 add address=vendor.eda.yandex comment=vendor.eda.yandex list=forward-coffee-dest
 add address=vendor.yandex.ru comment=vendor.yandex.ru list=forward-coffee-dest
@@ -247,6 +249,7 @@ add address=yabs.yandex.ru comment=yabs.yandex.ru list=forward-coffee-dest
 add address=yandex.net comment=yandex.net list=forward-coffee-dest
 add address=zia.aero comment=zia.aero list=forward-coffee-dest
 add address=megbed.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+
 
 
 
