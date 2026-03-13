@@ -214,7 +214,7 @@ add address=time.izatcloud.net comment=KateMedia list=forward-coffee-dest
 add address=time.nist.gov comment=time.nist.gov list=forward-coffee-dest
 add address=time.windows.com comment=time.windows.com list=forward-coffee-dest
 add address=time.xboxprod.izatcloud.net comment=KateMedia list=forward-coffee-dest
-add address=tips.yandex comment=tips.yandex list=forward-coffee-dest
+add address=tips.katemedia.ru comment=katemedia list=forward-coffee-dest
 add address=tips.yandex.ru comment=tips.yandex.ru list=forward-coffee-dest
 add address=update.egais.ru comment=egais list=forward-coffee-dest
 add address=update.kontur.ru comment=kontur list=forward-coffee-dest
@@ -249,6 +249,7 @@ add address=yabs.yandex.ru comment=yabs.yandex.ru list=forward-coffee-dest
 add address=yandex.net comment=yandex.net list=forward-coffee-dest
 add address=zia.aero comment=zia.aero list=forward-coffee-dest
 add address=megbed.sales-flow.ru comment=sales-flow list=forward-coffee-dest
+
 
 
 
