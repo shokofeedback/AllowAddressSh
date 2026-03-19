@@ -132,6 +132,7 @@ add address=mark-test.utm.egais.ru comment=egais list=forward-coffee-dest
 add address=markutm.egais.ru comment=egais list=forward-coffee-dest
 add address=mark-utm.egais.ru comment=egais list=forward-coffee-dest
 add address=metro-cc.ru comment=metro-cc.ru list=forward-coffee-dest
+add address=mega.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=megbed.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=moscow.speedtest.rt.ru comment=speedtest list=forward-coffee-dest
 add address=mqtt-3015.pushy.io comment=KateMedia list=forward-coffee-dest
