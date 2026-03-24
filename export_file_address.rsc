@@ -132,6 +132,7 @@ add address=markirovka.crpt.ru comment=markirovka list=forward-coffee-dest
 add address=mark-test.utm.egais.ru comment=egais list=forward-coffee-dest
 add address=markutm.egais.ru comment=egais list=forward-coffee-dest
 add address=mark-utm.egais.ru comment=egais list=forward-coffee-dest
+add address=max.ru comment=max list=forward-coffee-dest
 add address=metro-cc.ru comment=metro-cc.ru list=forward-coffee-dest
 add address=mega.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=megbed.sales-flow.ru comment=sales-flow list=forward-coffee-dest
@@ -196,6 +197,7 @@ add address=rkl-prod-server.katemedia.ru comment=KateMedia list=forward-coffee-d
 add address=rk-pay.catlabs.tech comment=rk-pay.catlabs.tech list=forward-coffee-dest
 add address=s02-a.prod.okp-fn.ru comment=ofd list=forward-coffee-dest
 add address=s03-a.prod.okp-fn.ru comment=ofd list=forward-coffee-dest
+add address=sberbank.ru comment=sberbank list=forward-coffee-dest
 add address=sbertips.ru comment=sbertips.ru list=forward-coffee-dest
 add address=sbi.sberbank.ru comment=SberBank list=forward-coffee-dest
 add address=setter.kontur.ru comment=kontur list=forward-coffee-dest
