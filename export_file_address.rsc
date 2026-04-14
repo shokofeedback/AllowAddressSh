@@ -238,6 +238,7 @@ add address=wallet.rsb.ru comment=wallet.rsb.ru list=forward-coffee-dest
 add address=web.encashment.sberbank.ru comment=sberbank list=forward-coffee-dest
 add address=web.kate.center comment=KateMedia list=forward-coffee-dest
 add address=web.telegram.org comment=web.telegram.org list=forward-coffee-dest
+add address=web.max.ru comment=max.ru list=forward-coffee-dest
 add address=ws.ucs.ru comment=ucs list=forward-coffee-dest
 add address=ws-p02.ucs.ru comment=ucs list=forward-coffee-dest
 add address=ws-test.ucs.ru comment=ucs list=forward-coffee-dest
