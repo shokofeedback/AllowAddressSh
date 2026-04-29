@@ -150,3 +150,4 @@ add address=141.8.142.0/25 comment=yandex.eda list=forward-coffee-dest
 add address=5.45.207.0/25 comment=yandex.eda list=forward-coffee-dest
 add address=77.88.21.189 comment=yandex.net list=forward-coffee-dest
 add address=89.169.145.53 comment=tv list=forward-coffee-dest
+add address=155.212.204.0/24 comment=max list=forward-coffee-dest
