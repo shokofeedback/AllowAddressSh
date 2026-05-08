@@ -82,6 +82,7 @@ add address=fcm.googleapis.com comment=KateMedia list=forward-coffee-dest
 add address=files.rsb.m4bank.ru comment=KateMedia list=forward-coffee-dest
 add address=filter-test.egais.ru comment=egais list=forward-coffee-dest
 add address=filter-utm.egais.ru comment=egais list=forward-coffee-dest
+add address=flight-market.com comment=flightmarket list=forward-coffee-dest
 add address=fms.kontur.ru comment=kontur list=forward-coffee-dest
 add address=focus.kontur.ru comment=kontur list=forward-coffee-dest
 add address=fortgroup.sales-flow.ru comment=sales-flow list=forward-coffee-dest
