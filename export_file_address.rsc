@@ -128,6 +128,7 @@ add address=loystg-xml-online.demo.spasibobonus.ru comment=spasibo list=forward-
 add address=lunch.catery.ru comment=catery list=forward-coffee-dest
 add address=m.dme.ru comment=domodedovo list=forward-coffee-dest
 add address=m4-bank-api.katemedia.ru comment=KateMedia list=forward-coffee-dest
+add address=m4-integration-service.katemedia.ru comment=KateMedia list=forward-coffee-dest
 add address=m4-proxy.katemedia.ru comment=KateMedia list=forward-coffee-dest
 add address=markirovka.crpt.ru comment=markirovka list=forward-coffee-dest
 add address=mark-test.utm.egais.ru comment=egais list=forward-coffee-dest
