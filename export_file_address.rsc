@@ -27,6 +27,7 @@ add address=ask-utm.egais.ru comment=egais list=forward-coffee-dest
 add address=auth.kontur.ru comment=kontur list=forward-coffee-dest
 add address=auth.mail.ru comment=auth.mail.ru list=forward-coffee-dest
 add address=avito.ru comment=avito list=forward-coffee-dest
+add address=avp.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=badgepay.yandex.net comment=badgepay.yandex.net list=forward-coffee-dest
 add address=badgepay-terminal.test.yandex.net comment=badgepay-yandex.net list=forward-coffee-dest
 add address=badgepay-terminal.yandex.net comment=badgepay-yandex list=forward-coffee-dest
@@ -57,6 +58,7 @@ add address=delivery-club.ru comment=delivery-club.ru list=forward-coffee-dest
 add address=demo.emi-corp.com comment=KateMedia list=forward-coffee-dest
 add address=diadoc.kontur.ru comment=kontur list=forward-coffee-dest
 add address=disk.yandex.ru comment=disk.yandex.ru list=forward-coffee-dest
+add address=dms-api.katemedia.ru comment=KateMedia list=forward-coffee-dest
 add address=docs.google.com comment=docs.google.com list=forward-coffee-dest
 add address=documents-test.utm.egais.ru comment=egais list=forward-coffee-dest
 add address=documents-utm.egais.ru comment=egais list=forward-coffee-dest
@@ -89,6 +91,7 @@ add address=fortgroup.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=ftp.ucs.ru comment=ftp.ucs.ru list=forward-coffee-dest
 add address=gcm-http.googleapis.com comment=KateMedia list=forward-coffee-dest
 add address=gitlab.kmlab.by comment=KateMedia list=forward-coffee-dest
+add address=goldengate.o-din.ru comment=goldengate list=forward-coffee-dest
 add address=google.com comment=google.com list=forward-coffee-dest
 add address=google-analytics.com comment=KateMedia list=forward-coffee-dest
 add address=googleapis.com comment=KateMedia list=forward-coffee-dest
@@ -139,6 +142,7 @@ add address=metro-cc.ru comment=metro-cc.ru list=forward-coffee-dest
 add address=mega.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=megbed.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=moscow.speedtest.rt.ru comment=speedtest list=forward-coffee-dest
+add address=moremall.ru comment=moremall list=forward-coffee-dest
 add address=mqtt-3015.pushy.io comment=KateMedia list=forward-coffee-dest
 add address=mri-extern.kontur.ru comment=kontur list=forward-coffee-dest
 add address=my.service.guru comment=service.guru list=forward-coffee-dest
@@ -199,6 +203,7 @@ add address=rkl-prod-server.katemedia.ru comment=KateMedia list=forward-coffee-d
 add address=rk-pay.catlabs.tech comment=rk-pay.catlabs.tech list=forward-coffee-dest
 add address=s02-a.prod.okp-fn.ru comment=ofd list=forward-coffee-dest
 add address=s03-a.prod.okp-fn.ru comment=ofd list=forward-coffee-dest
+add address=sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=sberbank.ru comment=sberbank list=forward-coffee-dest
 add address=sbertips.ru comment=sbertips.ru list=forward-coffee-dest
 add address=sbi.sberbank.ru comment=SberBank list=forward-coffee-dest
