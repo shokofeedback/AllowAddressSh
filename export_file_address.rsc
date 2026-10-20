@@ -173,6 +173,7 @@ add address=okhr.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=okp-fn.ru comment=okp-fn.ru list=forward-coffee-dest
 add address=online.sberbank.ru comment=online.sberbank.ru list=forward-coffee-dest
 add address=online-domodedovo.ru comment=online-domodedovo.ru list=forward-coffee-dest
+add address=online5.mysteryshoppers.ru comment=secret-guest list=forward-coffee-dest
 add address=order.unitex-service.ru comment=order.unitex-service.ru list=forward-coffee-dest
 add address=outlbd.sales-flow.ru comment=sales-flow list=forward-coffee-dest
 add address=p.kontur.ru comment=kontur list=forward-coffee-dest
