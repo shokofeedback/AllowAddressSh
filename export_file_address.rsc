@@ -80,6 +80,8 @@ add address=evrika-ib.kontur.ru comment=kontur list=forward-coffee-dest
 add address=exchanger-nd.utm.egais.ru comment=egais list=forward-coffee-dest
 add address=expert.kontur.ru comment=kontur list=forward-coffee-dest
 add address=extern.kontur.ru comment=kontur list=forward-coffee-dest
+add address=lk.ews.ru comment=ivl list=forward-coffee-dest
+add address=ews.ru comment=ivl list=forward-coffee-dest
 add address=fcm.googleapis.com comment=KateMedia list=forward-coffee-dest
 add address=files.rsb.m4bank.ru comment=KateMedia list=forward-coffee-dest
 add address=filter-test.egais.ru comment=egais list=forward-coffee-dest
