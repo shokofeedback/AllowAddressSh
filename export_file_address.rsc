@@ -8,6 +8,7 @@ add address=addons.opera.com comment=addons.opera.com list=forward-coffee-dest
 add address=admin.netmonet.co comment=admin.netmonet.co list=forward-coffee-dest
 add address=admin.rsb.m4bank.ru comment=KateMedia list=forward-coffee-dest
 add address=alko.kontur.ru comment=kontur list=forward-coffee-dest
+add address=and-corp.ru comment=lk-arenda list=forward-coffee-dest
 add address=api.bugfender.com comment=KateMedia list=forward-coffee-dest
 add address=api.foodcards.ru comment=api.foodcards.ru list=forward-coffee-dest
 add address=api.kate.center comment=KateMedia list=forward-coffee-dest
